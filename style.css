@@ -1,0 +1,54 @@
+body{font-family: 'Poppins', sans-serif;}
+
+.post-box{
+    border-radius: 12px;
+    width: 50%;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.text-area{
+    border: none;
+    border-radius: 12px;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    height: 500px;
+    background-image: url("https://previews.123rf.com/images/digifuture/digifuture1103/digifuture110300037/9006388-colorful-wood-background.jpg");
+}
+
+.heading{
+    margin-top: 3%;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.images{
+    margin-left: 2%;
+}
+
+.pst-btn{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    background-color: #2374e1;
+width: 100%;
+height: 40px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#p1{
+    margin-top: 5%;
+}
+
+.posted-box{
+    border-radius: 12px;
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   
+}
